@@ -1,0 +1,3 @@
+SELECT name FROM Product
+WHERE price IS NULL
+ORDER BY name ASC;

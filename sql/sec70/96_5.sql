@@ -1,0 +1,2 @@
+SELECT pid FROM Sale
+WHERE psale BETWEEN 10 AND 20;
