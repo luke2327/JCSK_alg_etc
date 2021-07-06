@@ -1,0 +1,1 @@
+UPDATE 학부생 SET 학과번호 = 999 WHERE 이름 LIKE "이%";
