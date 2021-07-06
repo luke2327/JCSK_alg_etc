@@ -1,0 +1,6 @@
+CREATE TABLE 사원 (
+    사원번호 NUMBER(4) PRIMARY KEY,
+    사원명 VARCHAR(10),
+    근무지번호 NUMBER(2) FOREIGN KEY REFERENCES 근무지번호,
+    ON DELETE CASCADE
+);
