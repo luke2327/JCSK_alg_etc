@@ -1,14 +1,19 @@
-## Getting Started
+정보처리 산업기사 시험을 준비하면서 필요한 자료들을 작성 및 정리해놓은 저장소 입니다
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+시험 : 2021-07-10
 
-## Folder Structure
+- - -
 
-The workspace contains two folders by default, where:
+#### clang
+- C 언어로 작성된 알고리즘 파일을 보관하는 디렉토리
+- 따로 저장소가 마련되어 있다
+  
+#### sql
+- 제공된 요구사항 대로 작성된 SQL 파일들이 있는 디렉토리
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+#### src
+- 자바언어로 작성된 알고리즘 파일 보관 디렉토리
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+#### theory
+- 주로 이론과 관련되어있는 파일을 보관하는 디렉토리
+- md 파일로 이루어져 있다
