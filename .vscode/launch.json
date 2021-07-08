@@ -9,7 +9,7 @@
         "name": "Launch Java Program",
         "request": "launch",
         "cwd": "${file}",
-        "console": "internalConsole",
+        "console": "integratedTerminal",
         "mainClass": "${file}",
         "args": "",
         "env": {
